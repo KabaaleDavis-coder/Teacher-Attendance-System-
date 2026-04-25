@@ -118,7 +118,7 @@ You can test the system immediately at:
 
 1. **Download and extract the zip file**
    ```bash
-   unzip teacher-attendance-system.zip
+   unzip Face Verification Attendance Tracker.zip
    # or extract manually
 Copy to web root
 
@@ -138,7 +138,7 @@ Open phpMyAdmin (http://localhost/phpmyadmin)
 
 Create a new database: teacher_attendance
 
-Import database/schema.sql file
+Import teacher_attendance_database.sql file that is pasted in this repository
 
 Configure database connection
 
